@@ -1,7 +1,7 @@
 defmodule AdventOfCode.ResultingFrequencyTest do
   use ExUnit.Case
 
-  alias AdventOfCode.ResultingFrequency
+  alias AdventOfCode2018.Day1.ResultingFrequency
 
   @frequencies "test/day_1/fixtures/input.txt" |> File.stream!() |> Enum.map(& &1)
 

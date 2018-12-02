@@ -1,4 +1,4 @@
-defmodule AdventOfCode.ResultingFrequency do
+defmodule AdventOfCode2018.Day1.ResultingFrequency do
   @moduledoc """
   URL: https://adventofcode.com/2018/day/1#part2
   """
